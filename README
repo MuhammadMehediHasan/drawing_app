@@ -40,6 +40,12 @@ Changes to be committed:
 	new file:   sketch.js
 	new file:   style.css
 ```
+
+```sh
+# save changes
+git commit -m "message"
+```
+
 ```bash
 git checkout dev_<your_name>
 git pull origin main # if you need to update
@@ -47,7 +53,3 @@ git push origin dev_<your_name>
 ```
 
 
-```sh
-# save changes
-git push
-```
